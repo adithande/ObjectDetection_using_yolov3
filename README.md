@@ -1,10 +1,10 @@
 # ObjectDetection_using_yolov3
 Object detection  with OpenCV and Python
 # Dependencies
-opencv
-numpy
+- opencv
+- numpy
 # Prerequisites Downloads
-image.jpg
-yolov3.cfg
-yolov3.weights
-yolov3.txt
+1. image.jpg 
+2. yolov3.cfg
+3. yolov3.weights
+4. yolov3.txt
